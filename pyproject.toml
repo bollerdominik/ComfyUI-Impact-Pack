@@ -12,8 +12,7 @@ dependencies = [
     "scipy",
     "numpy",
     "dill",
-    "matplotlib",
-    "sam2"
+    "matplotlib"
 ]
 
 [project.urls]
