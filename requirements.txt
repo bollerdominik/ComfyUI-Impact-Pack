@@ -7,4 +7,3 @@ scipy
 numpy
 dill
 matplotlib
-sam2
